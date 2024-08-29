@@ -1,0 +1,11 @@
+www
+
+mail
+fiap.com
+ftp
+localhost
+webmail
+smtp
+webdisk
+pop
+cpanel
